@@ -6,7 +6,7 @@
 	"remote":      "cypher"
   },
   {
-    "repository":  "desaishivam26/android_kernel_motorola_msm8916",
+    "repository":  "GtrCraft/android_kernel_motorola_msm8916",
     "target_path": "kernel/motorola/msm8916",
     "branch":      "n7.0",
 	"remote":      "github"
