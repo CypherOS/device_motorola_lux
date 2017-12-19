@@ -21,7 +21,8 @@ TARGET_SCREEN_HEIGHT := 1920
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := lux
-PRODUCT_NAME := lineage_lux
+PRODUCT_NAME := aoscp_lux
+PRODUCT_MODEL := Moto X Play
 PRODUCT_BRAND := Motorola
 PRODUCT_MANUFACTURER := Motorola
 PRODUCT_RELEASE_NAME := lux

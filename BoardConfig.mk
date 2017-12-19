@@ -27,7 +27,7 @@ TARGET_INIT_VENDOR_LIB := libinit_lux
 TARGET_RECOVERY_DEVICE_MODULES := libinit_lux
 
 # Kernel
-TARGET_KERNEL_CONFIG := lux_defconfig
+TARGET_KERNEL_CONFIG := aoscp_lux_defconfig
 
 # Partitions
 BOARD_BOOTIMAGE_PARTITION_SIZE := 33554432	# 32768 * 1024 mmcblk0p31
